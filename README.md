@@ -6,6 +6,9 @@ A standalone Jupyter notebook for evaluating an e-commerce support intent classi
 
 ## Project structure
 
+For a spoken walkthrough with cell-by-cell execution cues and a short results-video script, use the [Demo Script](DEMO_SCRIPT.md).
+
+
 ```text
 Evaluation_Project/
 ├── Evaluations_Using_LangSmith_Customer_Support.ipynb  # Main execution entry point
